@@ -56,8 +56,15 @@
     "time": "18:00"
   },
   {
+    "date": "2026-03-24",
+    "day": "Selasa",
+    "server": "GSI Cloud",
+    "platform": "TikTok",
+    "time": "14:00"
+  },
+  {
     "date": "2026-03-25",
-    "day": "Jumat",
+    "day": "Rabu",
     "server": "Zephyra SMP",
     "platform": "TikTok",
     "time": "14:00"
