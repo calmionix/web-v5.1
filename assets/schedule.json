@@ -56,17 +56,17 @@
     "time": "18:00"
   },
   {
+    "date": "2026-03-25",
+    "day": "Jumat",
+    "server": "Zephyra SMP",
+    "platform": "TikTok",
+    "time": "14:00"
+  },
+  {
     "date": "2026-03-27",
     "day": "Jumat",
     "server": "Iciki Network",
     "platform": "TikTok",
     "time": "18:00"
   }
-  {
-    "date": "2027-01-01",
-    "day": "Jumat",
-    "server": "Zephyra SMP",
-    "platform": "TikTok",
-    "time": "14:00"
-  },
 ]
