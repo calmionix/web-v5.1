@@ -502,6 +502,7 @@ async function initJadwal() {
 
     // Fallback data
     const fallbackData = [
+        { date: '2026-03-12', day: 'Kamis', server: 'Stecu SMP', platform: 'TikTok', time: '18:00' },
         { date: '2026-03-13', day: 'Jumat', server: 'Natural SMP', platform: 'TikTok', time: '14:00' },
         { date: '2026-03-14', day: 'Sabtu', server: 'Potato SMP', platform: 'TikTok', time: '18:00' },
         { date: '2026-03-15', day: 'Minggu', server: 'Hypix SMP', platform: 'TikTok', time: '14:00' },
