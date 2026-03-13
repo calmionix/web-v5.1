@@ -401,65 +401,38 @@ body {
     padding: 12px 0;
 }
 
+/* Pastikan container utama menggunakan flexbox */
 .nav-container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 24px;
+    padding: 0 1.5rem;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; /* Membuat logo di kiri dan toggle di kanan */
+    align-items: center;           /* Menjajajarkan secara vertikal (tengah) */
+    height: 70px;                  /* Atur tinggi navbar agar konsisten */
 }
 
-/* Logo */
+/* Pastikan logo dan teks di dalamnya juga sejajar */
 .nav-logo {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 0.75rem;                  /* Jarak antara gambar logo dan teks */
     text-decoration: none;
-    color: var(--text-primary);
-    transition: transform var(--transition-fast);
 }
 
-.nav-logo:hover {
-    transform: scale(1.02);
-}
-
-.nav-logo img {
-    width: 40px;
-    height: 40px;
+.logo-img {
+    height: 40px;                  /* Sesuaikan ukuran logo */
+    width: auto;
     object-fit: contain;
 }
 
-.nav-logo-text {
-    font-family: var(--font-display);
-    font-weight: 600;
-    font-size: 1.25rem;
-    letter-spacing: -0.5px;
-}
-
-/* Nav right section */
-.nav-right {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-}
-
-/* Theme Toggle - Clean Design */
+/* Pastikan toggle button tidak memiliki margin luar yang merusak baris */
 .theme-toggle {
-    width: 48px;
-    height: 48px;
-    border-radius: var(--radius-full);
-    border: 1px solid var(--border-color);
-    background: var(--bg-card);
-    color: var(--text-secondary);
-    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    
-    position: relative;
-    z-index: 1100; /* tambahkan ini */
+    /* Tambahan agar saat diklik tidak goyang */
+    padding: 0.5rem;
 }
 
 .theme-toggle:hover {
