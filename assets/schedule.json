@@ -82,5 +82,19 @@
     "server": "Valoria SMP",
     "platform": "TikTok",
     "time": "18:00"
+  },
+   {
+    "date": "2026-04-01",
+    "day": "Rabu",
+    "server": "Hypix SMP",
+    "platform": "TikTok",
+    "time": "18:00"
+  },
+   {
+    "date": "2026-04-02",
+    "day": "Kamis",
+    "server": "Earth SMP",
+    "platform": "TikTok",
+    "time": "18:00"
   }
 ]
