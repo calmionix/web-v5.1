@@ -58,14 +58,14 @@
   {
     "date": "2026-03-28",
     "day": "Sabtu",
-    "server": "Mie Ayam SMP",
+    "server": "Tidak Tersedia",
     "platform": "TikTok",
     "time": "18:00"
   },
   {
     "date": "2026-03-29",
     "day": "Minggu",
-    "server": "HOPE SMP",
+    "server": "Tidak Tersedia",
     "platform": "TikTok",
     "time": "18:00"
   },
@@ -73,6 +73,13 @@
     "date": "2026-03-30",
     "day": "Senin",
     "server": "Monyx Network",
+    "platform": "TikTok",
+    "time": "15:00"
+  },
+  {
+    "date": "2026-03-30",
+    "day": "Senin",
+    "server": "Mie Ayam SMP",
     "platform": "TikTok",
     "time": "18:00"
   },
@@ -82,6 +89,13 @@
     "server": "Valoria SMP",
     "platform": "TikTok",
     "time": "18:00"
+  },
+  {
+    "date": "2026-03-31",
+    "day": "Selasa",
+    "server": "HOPE SMP",
+    "platform": "TikTok",
+    "time": "15:00"
   },
   {
     "date": "2026-04-01",
