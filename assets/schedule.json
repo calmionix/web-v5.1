@@ -11,7 +11,14 @@
     "day": "Senin",
     "server": "Monyx Network",
     "platform": "TikTok",
-    "time": "15:00"
+    "time": "12:00"
+  },
+  {
+    "date": "2026-03-30",
+    "day": "Senin",
+    "server": "HOPE SMP",
+    "platform": "TikTok",
+    "time": "14:00"
   },
   {
     "date": "2026-03-31",
@@ -19,13 +26,6 @@
     "server": "Valoria SMP",
     "platform": "TikTok",
     "time": "18:00"
-  },
-  {
-    "date": "2026-03-31",
-    "day": "Selasa",
-    "server": "HOPE SMP",
-    "platform": "TikTok",
-    "time": "15:00"
   },
   {
     "date": "2026-04-01",
