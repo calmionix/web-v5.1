@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-03-29",
-    "day": "Minggu",
-    "server": "Mie Ayam SMP",
-    "platform": "TikTok",
-    "time": "14:00"
-  },
-  {
-    "date": "2026-03-30",
-    "day": "Senin",
-    "server": "Monyx Network",
-    "platform": "TikTok",
-    "time": "14:00"
-  },
-  {
-    "date": "2026-03-30",
-    "day": "Senin",
-    "server": "HOPE SMP",
-    "platform": "TikTok",
-    "time": "12:00"
-  },
-  {
-    "date": "2026-03-31",
-    "day": "Selasa",
-    "server": "Valoria SMP",
-    "platform": "TikTok",
-    "time": "18:00"
-  },
-  {
-    "date": "2026-04-02",
-    "day": "Kamis",
-    "server": "Earth SMP",
-    "platform": "TikTok",
-    "time": "18:00"
-  },
-  {
     "date": "2026-04-03",
     "day": "Jumat",
     "server": "Kandang Alwi",
@@ -59,6 +24,13 @@
     "date": "2026-04-06",
     "day": "Senin",
     "server": "LegacySchool SMP",
+    "platform": "TikTok",
+    "time": "15:00"
+  },
+  {
+    "date": "2026-04-07",
+    "day": "Selasa",
+    "server": "ZenyLand",
     "platform": "TikTok",
     "time": "15:00"
   }
